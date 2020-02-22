@@ -9,7 +9,7 @@ The Defect Log Recorder App is meant to keep track of the defects that one faces
 ### App Walk-though
 
 
-<img src= https://imgur.com/5Lvbssq width=200><br>
+<img src= https://imgur.com/5Lvbssq.gif width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
